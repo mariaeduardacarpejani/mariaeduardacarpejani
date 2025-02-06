@@ -35,16 +35,16 @@
 
 <h2>📚 Formação</h2>
 <ul>
- <li><strong>🎓 Tecnólogo em Ciência de Dados</strong> - Fatec Ourinhos (2021 - 2024)</li>
+ <li><strong>Tecnólogo em Ciência de Dados</strong> - Fatec Ourinhos (2021 - 2024)</li>
 </ul>
 
 ---
 
 <h2>🌟 Objetivos</h2>
 <ul>
- <li>🚀 Aplicar meus conhecimentos em ciência de dados para resolver problemas reais.</li>
-  <li>📈 Aprimorar minhas habilidades em machine learning e big data.</li>
-  <li>🤝 Contribuir para projetos de código aberto e colaborar com a comunidade tech.</li>
+ <li>Aplicar meus conhecimentos em ciência de dados para resolver problemas reais.</li>
+  <li> Aprimorar minhas habilidades em machine learning e big data.</li>
+  <li> Contribuir para projetos de código aberto e colaborar com a comunidade tech.</li>
 </ul>
 
 ---
