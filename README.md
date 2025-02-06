@@ -35,7 +35,7 @@
 
 <h2>📚 Formação</h2>
 <ul>
- <li><strong>Tecnólogo em Ciência de Dados</strong> - Fatec Ourinhos (2021 - 2024)</li>
+ <li><strong>Tecnólogo em Ciência de Dados</strong> - Fatec Ourinhos (2021 - 2023)</li>
 </ul>
 
 ---
