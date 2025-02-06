@@ -25,7 +25,7 @@
 </div>
 
 <ul>
-  <li><strong>📝 Linguagens:</strong> Python, SQL, NOSQL e conhecimentos básicos em JavaScript</li>
+  <li><strong>Linguagens:</strong> Python, SQL, NOSQL e conhecimentos básicos em JavaScript</li>
   <li><strong>Ferramentas:</strong> Jupyter Notebook, Git, Pandas, NumPy, Matplotlib, Seaborn</li>
   <li><strong>Outros:</strong> HTML, CSS</li>
 </ul>
