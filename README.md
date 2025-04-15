@@ -6,7 +6,9 @@
 ---
 ## 🌟 Sobre Mim
 
-<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
+<img align="right" height="150" src="https://cdn.picrew.me/shareImg/org/202504/338224_DU5SJqBQ.png"  />
+
+###
 
 Eu sou a **Maria Eduarda**, uma Cientista de Dados movida pela curiosidade de transformar dados brutos em insights poderosos. Minha jornada começou com a formação em Tecnólogo em Ciência de Dados, onde mergulhei no universo da análise de dados, estatística e programação.
 
@@ -58,10 +60,7 @@ Atualmente, estou me especializando ainda mais com uma Pós-Graduação em Ciên
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
 </div>
 
-
 ##
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariaeduardacarpejani/mariaeduardacarpejani/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariaeduardacarpejani/mariaeduardacarpejani/output/pacman-contribution-graph.svg">
