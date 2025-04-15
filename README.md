@@ -1,63 +1,79 @@
-<h1 align="center">Olá, eu sou a Maria Eduarda Carpejani! 👋</h1>
+<h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
+<p align="center"><i> Tecnóloga em Ciência de Dados | Pós graduação em Ciência de Dados e Big Data Analytics </i></p>
 
-<p align="center">
-  🎓 <strong>Tecnóloga em Ciência de Dados</strong> formada pela <strong>Fatec Ourinhos</strong>. <br>
-  💻 Apaixonada por análise de dados, machine learning e visualização de dados. <br>
-  🚀 Em busca de oportunidades para aplicar meus conhecimentos e crescer na área de tecnologia.
-</p>
+
+
+---
+## 🌟 Sobre Mim
+
+<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
+
+Eu sou a **Maria Eduarda**, uma Cientista de Dados movida pela curiosidade de transformar dados brutos em insights poderosos. Minha jornada começou com a formação em Tecnólogo em Ciência de Dados, onde mergulhei no universo da análise de dados, estatística e programação.
+
+Atualmente, estou me especializando ainda mais com uma Pós-Graduação em Ciência de Dados e Big Data Analytics, buscando dominar técnicas avançadas de Machine Learning, Big Data e inteligência artificial para resolver problemas complexos. ✨
 
 ---
 
-<h2>🛠️ Habilidades Técnicas</h2>
+<div align="left">
+</div>
+
+###
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaeduardacarpejani&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardacarpejani&layout=compact&langs_count=16&theme=bear"/>
+  <a href="https://www.linkedin.com/in/maria-eduarda-carpejani-dados/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mariaeduarda@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="mariaeduarda@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </p>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariaeduardacarpejani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaeduardacarpejani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<ul>
-  <li><strong>Linguagens:</strong> Python, SQL, NOSQL e conhecimentos básicos em JavaScript</li>
-  <li><strong>Ferramentas:</strong> Jupyter Notebook, Git, Pandas, NumPy, Matplotlib, Seaborn</li>
-  <li><strong>Outros:</strong> HTML, CSS</li>
-</ul>
+###
 
----
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+</div>
 
 
+##
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariaeduardacarpejani/mariaeduardacarpejani/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariaeduardacarpejani/mariaeduardacarpejani/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mariaeduardacarpejani/mariaeduardacarpejani/output/pacman-contribution-graph.svg">
+</picture>
+
+##
 <h2>📚 Formação</h2>
 <ul>
  <li><strong>Tecnólogo em Ciência de Dados</strong> - Fatec Ourinhos (2021 - 2023)</li>
+  <li><strong>Pós Graduação Ciência de Dados e Big Data Analytics - FAMEF (2025 - 2026)</li>
 </ul>
 
----
 
-<h2>🌟 Objetivos</h2>
-<ul>
- <li>Aplicar meus conhecimentos em ciência de dados para resolver problemas reais.</li>
-  <li> Aprimorar minhas habilidades em machine learning e big data.</li>
-  <li> Contribuir para projetos de código aberto e colaborar com a comunidade tech.</li>
-</ul>
-
----
-
-<h2>📫 Vamos conversar?</h2>
-<p>Se quiser entrar em contato ou colaborar em algum projeto, sinta-se à vontade para me encontrar nas seguintes plataformas:</p>
-<ul>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/maria-eduarda-de-oliveira-carpejani-003057267/">LinkedIn</a></li>
-</ul>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mariaeduardacarpejani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-</p>
 
