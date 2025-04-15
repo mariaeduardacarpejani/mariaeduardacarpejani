@@ -1,6 +1,7 @@
-<h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
-<p align="center"><i> Tecnóloga em Ciência de Dados | Pós graduação em Ciência de Dados e Big Data Analytics </i></p>
-
+<h1 align="center"> ✨ Seja bem-vindo(a) ao meu GitHub!✨ </h1> 
+<p align="center">
+  <i>👩‍💻 Cientista de Dados | Tecnóloga em Ciência de Dados | <b>Pós em Andamento</b> em Big Data</i>
+</p>
 
 
 ---
@@ -74,5 +75,5 @@ Atualmente, estou me especializando ainda mais com uma Pós-Graduação em Ciên
   <li><strong>Pós Graduação Ciência de Dados e Big Data Analytics - FAMEF (2025 - 2026)</li>
 </ul>
 
-
-
+---
+<p align="center"><i>Obrigada pela visita! 💗</i></p>
