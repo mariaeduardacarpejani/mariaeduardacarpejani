@@ -6,7 +6,7 @@
 ---
 ## 🌟 Sobre Mim
 
-<img align="right" height="150" src="https://cdn.picrew.me/shareImg/org/202504/338224_3VesWUKS.png"  />
+<img align="right" height="150" src="https://cdn.picrew.me/shareImg/org/202504/338224_brhSaKaS.png"  />
 
 ###
 
